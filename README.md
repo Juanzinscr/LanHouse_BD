@@ -28,6 +28,6 @@ Projeto acadêmico de modelagem e implementação de banco de dados para gerenci
 - consultas.sql → consultas SQL
 - modelo-conceitual.png → DER do sistema
 
-## Autor
+## Autores
 
-Juan José, 
+Juan José, Yan Pablo, Vinicius Ramos
