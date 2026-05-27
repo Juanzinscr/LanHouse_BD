@@ -1,3 +1,5 @@
+USE lan_house;
+
 -- Listar clientes
 SELECT * FROM cliente;
 
